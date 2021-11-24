@@ -23,6 +23,6 @@ Activation: say "hi Jarvis" or "Hey jarvis" to activate the assisant just like "
 
 Getting time: simply ask for the time like "hey what's the time right now?" or "tell me the time!"
 
-Wikipedia info: say in your message with a keyword "According to wikipedia" + {{Your query}} to get brief info about your query accordin to wikipedia.
+Wikipedia info: say in your message with a keyword "According to wikipedia" + {{Your query}} to get brief info about your query according to wikipedia.
 
-search youtube videos: say in your message with a keyword "Search youtube and wait" Jarvis: - "What you want to search" say your query to get youtube search results of {{Your query}}
+search youtube videos: say in your message with a keyword "Search youtube"
